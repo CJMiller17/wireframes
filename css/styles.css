@@ -1,5 +1,5 @@
 /* Your code goes here, if needed */
-div[class*="row"] {
+.centered {
     height: 100vh;
 }
 
